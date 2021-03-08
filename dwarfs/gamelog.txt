@@ -1,0 +1,101 @@
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 3233333
+ Seed: XeSs4S8Q8kgawyuW8i0G
+ History Seed: egDK3JuuWImX3F8qlvqU
+ Name Seed: gk0aAYWYIGMcAEoI4UKI
+ Creature Seed: EZ9YrcYA6ugkSK8oSouO
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+** Starting New Arena **
+Generating world using parameter set CREATE WORLD NOW = 2222222
+ Seed: oqsV9u8iiy4QQek0O4cM
+ History Seed: gnBkcmGCCGs6GgogaiMo
+ Name Seed: uQwQ5eAqSMosiqkKm68y
+ Creature Seed: Gi8LQDm9keUuyuzzN7BS
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+** Starting New Arena **
+*** STARTING NEW GAME ***
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+** Starting New Arena **
+** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 3333333
+ Seed: pssC0wgUmoeSYGY0waQa
+ History Seed: IXRVhg3fENcRlrmHxmKP
+ Name Seed: Wg0ASUWAki4AIA2k02yi
+ Creature Seed: vX2AqcCc8AKwqO4yOqkU
+*** STARTING NEW GAME ***
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Kogsak M”rulshem, Stoneworker cancels Dig Channel: Dangerous terrain.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
