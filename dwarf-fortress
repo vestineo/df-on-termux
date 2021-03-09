@@ -8,7 +8,7 @@ function changeFont(){
     fi
     termux-reload-settings
 }
- 
+
 trap changeFont EXIT 
 
 mkdir -p /data/data/com.termux/files/home/.termux/
@@ -25,7 +25,5 @@ cp /data/data/com.termux/files/usr/opt/df_sandbox/fonts/font.ttf /data/data/com.
 
 termux-reload-settings
 
-
 unset LD_PRELOAD
-proot --link2symlink -b /data:/data -b /proc:/proc -b /system:/system -b /dev:/dev -q qemu-x86_64 -w / -0 -r /data/data/com.termux/files/usr/opt/df_sandbox/ /bin/busybox env TMPDIR=/tmp HOME=/random PREFIX=/usr LANG=en_GB.UTF-8 SHELL=/bin/bash PATH=/bin/:/usr/bin/:/usr/sbin TERM=xterm-256color /dwarfs/df
-
+proot --link2symlink -b /data:/data -b /proc:/proc -b /system:/system -b /dev:/dev -b /apex:/apex -q qemu-x86_64 -w / -0 -r /data/data/com.termux/files/usr/opt/df_sandbox/ /bin/busybox env TMPDIR=/tmp HOME=/random PREFIX=/usr LANG=en_GB.UTF-8 SHELL=/bin/bash PATH=/bin/:/usr/bin/:/usr/sbin TERM=xterm-256color /dwarfs/df
