@@ -100,3 +100,16 @@ Kogsak M”rulshem, Stoneworker cancels Dig Channel: Dangerous terrain.
 ** Loading Fortress **
 *** STARTING NEW GAME ***
 *** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 4333333
+ Seed: QLkYRfJtXSpOYqM3nUIG
+ History Seed: vAYkmiGO2sKYcGyuigak
+ Name Seed: 8lSAzaCyA26hnIpIVXY1
+ Creature Seed: cEo8wM6GcisuaC6yWGcC
+** Starting New Outpost **
