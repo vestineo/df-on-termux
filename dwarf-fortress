@@ -2,9 +2,9 @@
 
 function changeFont() {
     if [ "$origfont" = true ] && [ -f "/data/data/com.termux/files/home/df_home/df_sandbox/fonts/termux-font.ttf" ]; then 
-        mv /data/data/com.termux/files/home/df_home/df_sandbox/fonts/termux-font.ttf /data/data/com.termux/files/home/.termux/font.ttf
+        mv -f /data/data/com.termux/files/home/df_home/df_sandbox/fonts/termux-font.ttf /data/data/com.termux/files/home/.termux/font.ttf
     elif [ -f "/data/data/com.termux/files/home/.termux/font.ttf" ]; then
-        rm /data/data/com.termux/files/home/.termux/font.ttf
+        rm -f /data/data/com.termux/files/home/.termux/font.ttf
     fi
     termux-reload-settings
 }
@@ -14,7 +14,7 @@ mkdir -p /data/data/com.termux/files/home/.termux/
 
 origfont=false
 if [[ -f "/data/data/com.termux/files/home/.termux/font.ttf" ]]; then
-    mv /data/data/com.termux/files/home/.termux/font.ttf /data/data/com.termux/files/home/df_home/df_sandbox/fonts/termux-font.ttf
+    mv -f /data/data/com.termux/files/home/.termux/font.ttf /data/data/com.termux/files/home/df_home/df_sandbox/fonts/termux-font.ttf
     origfont=true
 fi
 
