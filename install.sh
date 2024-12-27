@@ -24,7 +24,7 @@ for pkg in git proot qemu-user-x86-64; do
 done
 
 printf "${red} >> ${yellow}Cloning repo...\n"
-git clone https://github.com/vestineo/df-on-termux.git || handle_error "Failed to clone repository"
+git clone https://github.com/vestineo/df-on-termux || handle_error "Failed to clone repository"
 
 mkdir -p /data/data/com.termux/files/home/df_home || handle_error "Failed to create df_home"
 mv -f df-on-termux /data/data/com.termux/files/home/df_home/df_sandbox || handle_error "Failed to move installation files"
