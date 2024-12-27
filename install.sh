@@ -26,11 +26,10 @@ done
 printf "${red} >> ${yellow}Cloning repo...\n"
 git clone https://github.com/vestineo/df-on-termux || handle_error "Failed to clone repository"
 
-mkdir -p /data/data/com.termux/files/home/df_home || handle_error "Failed to create df_home"
-mv -f df-on-termux /data/data/com.termux/files/home/df_home/df_sandbox || handle_error "Failed to move installation files"
+mv -f df-on-termux /data/data/com.termux/files/home/df_sandbox || handle_error "Failed to move installation files"
 
 mkdir -p /data/data/com.termux/files/usr/bin
-mv -f /data/data/com.termux/files/home/df_home/df_sandbox/dwarf-fortress /data/data/com.termux/files/usr/bin/ || handle_error "Failed to install binary"
+mv -f /data/data/com.termux/files/home/df_sandbox/dwarf-fortress /data/data/com.termux/files/usr/bin/ || handle_error "Failed to install binary"
 chmod +x /data/data/com.termux/files/usr/bin/dwarf-fortress || handle_error "Failed to set executable permissions"
 
 printf "${red}[!] ${yellow}To play the game, use ${blue}dwarf-fortress${yellow} command\n"
